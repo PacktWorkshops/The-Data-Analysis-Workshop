@@ -7,3 +7,4 @@ statsmodels==0.10.1
 scikit-learn==0.22.1
 imbalanced-learn==0.6.2
 plotly==4.8.1
+pmdarima==1.6.1
