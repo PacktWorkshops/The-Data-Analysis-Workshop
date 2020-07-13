@@ -8,7 +8,7 @@
 This is the repository for The Data Analysis Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href=""><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15760_The%20Data%20Analysis%20Workshop.png" alt="The Data Analysis Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+<a href=""><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15760_The%20Data%20Analysis%20Workshop.png" alt="The Data Analysis Workshop" height="280px" width="220px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Python on [Windows/Mac/Linux](https://www.python.org/downloads/)
