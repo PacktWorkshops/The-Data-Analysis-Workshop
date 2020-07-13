@@ -8,20 +8,19 @@
 This is the repository for The Data Analysis Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
+<a href=""><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B15760_The%20Data%20Analysis%20Workshop.png" alt="The Data Analysis Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+
 To get started with the project files, you'll need to:
 1. Install Python on [Windows/Mac/Linux](https://www.python.org/downloads/)
 2. Install Anaconda on [Windows/Mac/Linux](https://www.anaconda.com/distribution/#download-section)
 
 ## About The Data Analysis Workshop
-You already know you want to learn data analysis, and a smarter way to learn data analysis is to learn by doing. The Data Analysis Workshop focuses on building up your practical skills so that you can develop model in Python to improve marketing campaign efficiency by analysing a marketing campaign or even understand the driving factors behind a company going bankrupt with effective modern data analysis. You'll learn from real examples that lead to real results.  
+Businesses today operate online and generate data almost continuously. While not all data in its raw form may seem useful, if processed and analyzed correctly, it can provide you with valuable hidden insights. The Data Analysis Workshop will help you learn how to discover these hidden patterns in your data, to analyze them and leverage the results to help transform your business.  
 
 ## What you will learn
-* Get to grips with fundamental concepts and conventions of data analysis
-* Understand how different algorithms help in effectively analysing the data
-* Determine the variation between groups of data using hypothesis testing
-* Learn how to visualize the data using plotting points
-* Use correlation techniques to find out the relationship between the variables
-* Find hidden patterns in the data using advanced techniques and strategies
+* Get to grips with data analysis by studying use cases from different fields 
+* Develop your critical thinking skills by following tried-and-true data analysis 
+* Learn how to use conclusions from data analyses to make better business decisions 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
