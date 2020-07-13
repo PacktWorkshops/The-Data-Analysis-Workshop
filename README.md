@@ -18,9 +18,12 @@ To get started with the project files, you'll need to:
 Businesses today operate online and generate data almost continuously. While not all data in its raw form may seem useful, if processed and analyzed correctly, it can provide you with valuable hidden insights. The Data Analysis Workshop will help you learn how to discover these hidden patterns in your data, to analyze them and leverage the results to help transform your business.  
 
 ## What you will learn
-* Get to grips with data analysis by studying use cases from different fields 
-* Develop your critical thinking skills by following tried-and-true data analysis 
-* Learn how to use conclusions from data analyses to make better business decisions 
+* Get to grips with the fundamental concepts and conventions of data analysis 
+* Understand how different algorithms help you to analyze the data effectively 
+* Determine the variation between groups of data using hypothesis testing 
+* Visualize your data correctly using approproate plotting points 
+* Use correlation techniques to uncover the relationship between variables 
+* Find hidden patterns in data using advanced techniques and strategies 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
